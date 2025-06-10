@@ -1,15 +1,3 @@
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nyambuyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Nyambuyan&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyambuyan&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
-
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="https://skillicons.dev/icons?i=html" alt="html" width="48" height="48" />
     <img src="https://skillicons.dev/icons?i=css" alt="css" width="48" height="48" />
@@ -30,3 +18,13 @@
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="48" height="48" />
 </div>
+
+
+<br/>
+
+<p align="start">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nyambuyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyambuyan&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
+
