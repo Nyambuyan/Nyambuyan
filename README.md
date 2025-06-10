@@ -9,8 +9,8 @@
 
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="https://skillicons.dev/icons?i=cypress" alt="html" width="48" height="48" />
-    <img src="https://skillicons.dev/icons?i=cypress" alt="css" width="48" height="48" />
+    <img src="https://skillicons.dev/icons?i=html" alt="html" width="48" height="48" />
+    <img src="https://skillicons.dev/icons?i=css" alt="css" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" />
