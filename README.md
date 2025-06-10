@@ -2,11 +2,11 @@
 
 
 
-
+<div align="center">  
 ![](https://github-readme-stats.vercel.app/api?username=Nyambuyan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Nyambuyan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyambuyan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+</div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="https://skillicons.dev/icons?i=html" alt="html" width="48" height="48" />
